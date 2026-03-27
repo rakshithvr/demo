@@ -29,6 +29,7 @@ const UserList = () => {
             <th>Email</th>
             <th>Serial No</th>
             <th>Demo</th>
+            <th>Dhanu</th>
           </tr>
         </thead>
         <tbody>
